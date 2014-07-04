@@ -3,4 +3,5 @@ target
 *.log
 *.class
 .idea
-*Db.*.db
+*Db.
+*.db
